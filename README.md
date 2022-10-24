@@ -18,7 +18,7 @@ Ngejual SC ORI jahanam brader, neraka menunggumu
 <br>
 
 ## My Project
-WhatsApp Bot Multi Device [`FERDIZ-afk/kitagawa-md`](https://github.com/FERDIZ-afk/Ichigo-Kurosaki-x-kitagawa_md)
+WhatsApp Bot Multi Device [`FERDIZ-afk/Ichigo-Kurosaki-x-kitagawa_md`](https://github.com/FERDIZ-afk/Ichigo-Kurosaki-x-kitagawa_md)
 
 
 ## UNTUK PENGGUNA WINDOWS/RDP
@@ -73,8 +73,8 @@ Editing Number Owner & session name in [`setting.json`](https://github.com/FERDI
 
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys/tree/master)
-* [`FERDIZ-afk/kitagawa-md`](https://github.com/FERDIZ-afk/Ichigo-Kurosaki-x-kitagawa_md)
-
+* [`FERDIZ-afk/Ichigo-Kurosaki-x-kitagawa_md`](https://github.com/FERDIZ-afk/Ichigo-Kurosaki-x-kitagawa_md)
+* [`creator-NzrlAfndi/Ichigo-Kurosaki`](https://github.com/NzrlAfndi/Ichigo-Kurosaki)
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 Support Me
