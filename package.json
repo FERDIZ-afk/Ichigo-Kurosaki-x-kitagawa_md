@@ -64,18 +64,5 @@
     "similarity": "^1.2.1",
     "util": "^0.12.4",
     "yargs": "^17.4.1"
-  },
-  "directories": {
-    "lib": "lib",
-    "src": "src"
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/FERDIZ-afk/Ichigo-Kurosaki-x-kitagawa_md.git"
-  },
-  "bugs": {
-    "url": "https://github.com/FERDIZ-afk/Ichigo-Kurosaki-x-kitagawa_md/issues"
-  },
-  "homepage": "https://github.com/FERDIZ-afk/Ichigo-Kurosaki-x-kitagawa_md#readme"
+  }
 }
