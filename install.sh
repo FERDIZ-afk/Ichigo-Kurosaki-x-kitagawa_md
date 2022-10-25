@@ -5,7 +5,7 @@ rm -rf node_modules
 yarn
 #rm -rf sesi.json
 
-cd node_modules/@adiwajshing/baileys && npm run build:tsc && cp src/Defaults/baileys-version.json lib/Defaults/baileys-version.json && cd && cd Ichigo-Kurosaki
+cd node_modules/@adiwajshing/baileys && npm run build:tsc && cp src/Defaults/baileys-version.json lib/Defaults/baileys-version.json && cd /root/apibotv4/Ichigo-Kurosaki-x-kitagawa_md#
 
 cp node_modules/@adiwajshing/baileys/src/Defaults/baileys-version.json node_modules/@adiwajshing/baileys/lib/Defaults/baileys-version.json
 ls node_modules/@adiwajshing/baileys/lib/Defaults
