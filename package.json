@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Bot Kok Wangsap",
   "main": "connect/index.js",
-  "type": "commonjs",
   "scripts": {
     "start": "node main.js",
     "dev": "nodemon main.js"
